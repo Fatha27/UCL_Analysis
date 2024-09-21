@@ -1,0 +1,70 @@
+Season,Home_team,FT_score,Away_team,Winning_manager,Top_scorer,Top_scorer_club,Top_scorer_country,Top_scorer_goals,Top_scorer_position
+23/24,Borussia Dortmund,0:2,Real Madrid,Carlo Ancelotti,"Harry Kane, Kylian Mbappé","Bayern Munich, Paris Saint-Germain","England, France",8,"Centre-Forward, Centre-Forward"
+22/23,Manchester City,1:0,Inter Milan,Pep Guardiola,Erling Haaland,Manchester City,Norway,12,Centre-Forward
+21/22,Liverpool FC,0:1,Real Madrid,Carlo Ancelotti,Karim Benzema,Real Madrid,France,15,Centre-Forward
+20/21,Manchester City,0:1,Chelsea FC,Thomas Tuchel,Erling Haaland,Borussia Dortmund,Norway,10,Centre-Forward
+19/20,Paris Saint-Germain,0:1,Bayern Munich,Hansi Flick,Robert Lewandowski,Bayern Munich,Poland,15,Centre-Forward
+18/19,Tottenham Hotspur,0:2,Liverpool FC,Jürgen Klopp,Lionel Messi,FC Barcelona,Argentina,12,Right Winger
+17/18,Real Madrid,3:1,Liverpool FC,Zinédine Zidane,Cristiano Ronaldo,Real Madrid,Portugal,15,Centre-Forward
+16/17,Juventus FC,1:4,Real Madrid,Zinédine Zidane,Cristiano Ronaldo,Real Madrid,Portugal,12,Centre-Forward
+15/16,Real Madrid,6:4 on pens,Atlético de Madrid,Zinédine Zidane,Cristiano Ronaldo,Real Madrid,Portugal,16,Centre-Forward
+14/15,Juventus FC,1:3,FC Barcelona,Luis Enrique,"Cristiano Ronaldo, Lionel Messi, Neymar","Real Madrid, FC Barcelona, FC Barcelona","Portugal, Argentina, Brazil",10,"Centre-Forward, Right Winger, Left Winger"
+13/14,Real Madrid,4:1 AET,Atlético de Madrid,Carlo Ancelotti,Cristiano Ronaldo,Real Madrid,Portugal,17,Centre-Forward
+12/13,Borussia Dortmund,1:2,Bayern Munich,Jupp Heynckes,Cristiano Ronaldo,Real Madrid,Portugal,12,Centre-Forward
+11/12,Bayern Munich,4:5 on pens,Chelsea FC,Roberto Di Matteo,Lionel Messi,FC Barcelona,Argentina,14,Right Winger
+10/11,FC Barcelona,3:1,Manchester United,Pep Guardiola,Lionel Messi,FC Barcelona,Argentina,12,Right Winger
+09/10,Inter Milan,2:0,Bayern Munich,José Mourinho,Lionel Messi,FC Barcelona,Argentina,8,Right Winger
+08/09,FC Barcelona,2:0,Manchester United,Pep Guardiola,Lionel Messi,FC Barcelona,Argentina,9,Right Winger
+07/08,Manchester United,6:5 on pens,Chelsea FC,Sir Alex Ferguson,Cristiano Ronaldo,Manchester United,Portugal,8,Centre-Forward
+06/07,Liverpool FC,1:2,AC Milan,Carlo Ancelotti,Kaká,AC Milan,Brazil,10,Attacking Midfield
+05/06,FC Barcelona,2:1,Arsenal FC,Frank Rijkaard,Andriy Shevchenko,AC Milan,Ukraine,9,Centre-Forward
+04/05,AC Milan,5:6 on pens,Liverpool FC,Rafael Benítez,Ruud van Nistelrooy,Manchester United,Netherlands,8,Centre-Forward
+03/04,AS Monaco,0:3,FC Porto,José Mourinho,Fernando Morientes,AS Monaco,Spain,9,Centre-Forward
+02/03,Juventus FC,2:3 on pens,AC Milan,Carlo Ancelotti,Ruud van Nistelrooy,Manchester United,Netherlands,12,Centre-Forward
+01/02,Bayer 04 Leverkusen,1:2,Real Madrid,Vicente del Bosque,Ruud van Nistelrooy,Manchester United,Netherlands,10,Centre-Forward
+00/01,Bayern Munich,5:4 on pens,Valencia CF,Ottmar Hitzfeld,Andriy Shevchenko,AC Milan,Ukraine,9,Centre-Forward
+99/00,Real Madrid,3:0,Valencia CF,Vicente del Bosque,"Jardel, Raúl, Rivaldo","FC Porto, Real Madrid, FC Barcelona","Brazil, Spain, Brazil",10,"Centre-Forward, Second Striker, Attacking Midfield"
+98/99,Manchester United,2:1,Bayern Munich,Sir Alex Ferguson,"Andriy Shevchenko, Dwight Yorke","Dynamo Kyiv, Manchester United","Ukraine, Trinidad and Tobago",8,"Centre-Forward, Centre-Forward"
+97/98,Real Madrid,1:0,Juventus FC,Jupp Heynckes,Alessandro Del Piero,Juventus FC,Italy,10,Second Striker
+96/97,Borussia Dortmund,3:1,Juventus FC,Ottmar Hitzfeld,Milinko Pantic,Atlético de Madrid,Serbia,5,Attacking Midfield
+95/96,Juventus FC,5:3 on pens,Ajax Amsterdam,Marcello Lippi,Jari Litmanen,Ajax Amsterdam,Finland,9,Attacking Midfield
+94/95,Ajax Amsterdam,1:0,AC Milan,Louis van Gaal,George Weah,Paris Saint-Germain,Liberia,8,Centre-Forward
+93/94,AC Milan,4:0,FC Barcelona,Fabio Capello,Ronald Koeman,FC Barcelona,Netherlands,8,Sweeper
+92/93,Olympique Marseille,1:0,AC Milan,Raymond Goethals,Romário,PSV Eindhoven,Brazil,7,Centre-Forward
+91/92,FC Barcelona,1:0 AET,UC Sampdoria,Johan Cruyff,Jean-Pierre Papin,Olympique Marseille,France,7,Centre-Forward
+90/91,Red Star Belgrade,5:3 on pens,Olympique Marseille,Ljubomir Petrovic,"Peter Pacult, Jean-Pierre Papin, Darko Pancev","FC Swarovski Tirol, Olympique Marseille, Red Star Belgrade","Austria, France, North Macedonia",6,"Sturm, Centre-Forward, Centre-Forward"
+89/90,AC Milan,1:0,SL Benfica,Arrigo Sacchi,"Romário, Jean-Pierre Papin","PSV Eindhoven, Olympique Marseille","Brazil, France",7,"Centre-Forward, Centre-Forward"
+88/89,AC Milan,4:0,Steaua Bucharest,Arrigo Sacchi,Marco van Basten,AC Milan,Netherlands,9,Centre-Forward
+87/88,PSV Eindhoven,6:5 on pens,SL Benfica,Guus Hiddink,"Míchel, Jean-Marc Ferreri","Real Madrid, FC Girondins Bordeaux","Spain, France",4,"Right Midfield, Attacking Midfield"
+86/87,FC Porto,2:1,Bayern Munich,Artur Jorge,Borislav Cvetkovic,Red Star Belgrade,Serbia,7,Left Winger
+85/86,Steaua Bucharest,2:0 on pens,FC Barcelona,Emerich Jenei,Torbjörn Nilsson,IFK Göteborg,Sweden,6,Centre-Forward
+84/85,Juventus FC,1:0,Liverpool FC,Giovanni Trapattoni,Torbjörn Nilsson,IFK Göteborg,Sweden,7,Centre-Forward
+83/84,Liverpool FC,5:3 on pens,AS Roma,Joe Fagan,Viktor Sokol,Dinamo Minsk,Belarus,6,Centre-Forward
+82/83,Hamburger SV,1:0,Juventus FC,Ernst Happel,Michel Platini,Juventus FC,France,5,Attacking Midfield
+81/82,Aston Villa,1:0,Bayern Munich,Tony Barton,Dieter Hoeneß,Bayern Munich,Germany,7,Centre-Forward
+80/81,Liverpool FC,1:0,Real Madrid,Bob Paisley,"Graeme Souness, Karl-Heinz Rummenigge","Liverpool FC, Bayern Munich","Scotland, Germany",6,"Central Midfield, Centre-Forward"
+79/80,Nottingham Forest,1:0,Hamburger SV,Brian Clough,Sören Lerby,Ajax Amsterdam,Denmark,10,Central Midfield
+78/79,Nottingham Forest,1:0,Malmö FF,Brian Clough,Claudio Sulser,Grasshopper Club Zurich,Switzerland,11,Centre-Forward
+77/78,Liverpool FC,1:0,Club Brugge KV,Bob Paisley,Allan Simonsen,Borussia Mönchengladbach,Denmark,5,Second Striker
+76/77,Liverpool FC,3:1,Borussia Mönchengladbach,Bob Paisley,Gerd Müller,Bayern Munich,Germany,5,Centre-Forward
+75/76,Bayern Munich,1:0,AS Saint-Étienne,Dettmar Cramer,Jupp Heynckes,Borussia Mönchengladbach,Germany,6,Centre-Forward
+74/75,Bayern Munich,2:0,Leeds United,Dettmar Cramer,"Gerd Müller, Eduard Markarov","Bayern Munich, Ararat Erewan","Germany, Armenia",5,"Centre-Forward, Second Striker"
+73/74,Bayern Munich,1:1 AET,,Atlético de Madrid,Gerd Müller,Bayern Munich,Germany,8,Centre-Forward
+72/73,Ajax Amsterdam,1:0,Juventus FC,Ștefan Kovács,Gerd Müller,Bayern Munich,Germany,12,Centre-Forward
+71/72,Ajax Amsterdam,2:0,Inter Milan,Ștefan Kovács,Silvester Takac,Standard Liège,Serbia,5,Centre-Forward
+70/71,Ajax Amsterdam,2:0,Panathinaikos FC,Rinus Michels,Antonis Antoniadis,Panathinaikos FC,Greece,10,Centre-Forward
+69/70,RV & AV Feijenoord,2:1 AET,Celtic FC,Ernst Happel,Ove Kindvall,Feyenoord Rotterdam,Sweden,7,Centre-Forward
+68/69,AC Milan,4:1,Ajax Amsterdam,Nereo Rocco,Denis Law,Manchester United,Scotland,9,Centre-Forward
+67/68,Manchester United,4:1 AET,SL Benfica,Sir Matt Busby,Eusébio,SL Benfica,Portugal,6,Centre-Forward
+66/67,Celtic FC,2:1,Inter Milan,Jock Stein,Paul Van Himst,RSC Anderlecht,Belgium,6,Centre-Forward
+65/66,Real Madrid,2:1,FK Partizan Belgrade,Miguel Muñoz,"Flórián Albert, Eusébio","Ferencvárosi TC, SL Benfica","Hungary, Portugal",7,"Centre-Forward, Centre-Forward"
+64/65,Inter Milan,1:0,SL Benfica,Helenio Herrera,Eusébio,SL Benfica,Portugal,9,Centre-Forward
+63/64,Inter Milan,3:1,Real Madrid,Helenio Herrera,"Sandro Mazzola, Vladimir Kovacevic, Ferenc Puskás","Inter Milan, FK Partizan Belgrade, Real Madrid","Italy, Serbia, Hungary",7,"Second Striker, Centre-Forward, Centre-Forward"
+62/63,AC Milan,2:1,SL Benfica,Nereo Rocco,José Altafini,AC Milan,Italy,14,Centre-Forward
+61/62,SL Benfica,5:3,Real Madrid,Béla Guttmann,"Ferenc Puskás, Alfredo di Stéfano","Real Madrid, Real Madrid","Hungary, Spain",8,"Centre-Forward, Second Striker"
+60/61,SL Benfica,3:2,CF Barcelona,Béla Guttmann,José Águas,SL Benfica,Portugal,11,Centre-Forward
+59/60,Real Madrid,7:3,Eintracht Frankfurt,Miguel Muñoz,Ferenc Puskás,Real Madrid,Hungary,12,Centre-Forward
+58/59,Real Madrid,2:0,Stade Reims,Luis Carniglia,Just Fontaine,Stade Reims,France,10,Centre-Forward
+57/58,Real Madrid,3:2 AET,AC Milan,Luis Carniglia,Alfredo di Stéfano,Real Madrid,Spain,10,Second Striker
+56/57,Real Madrid,2:0,AC Fiorentina,José Villalonga,Dennis Viollet,Manchester United,England,9,Centre-Forward
+55/56,Real Madrid,4:3,Stade Reims,José Villalonga,Milos Milutinovic,FK Partizan Belgrade,Serbia,8,Centre-Forward
